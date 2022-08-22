@@ -1,19 +1,12 @@
-<!--### Hi there 👋
+<style>
+th {
+   border: none!important;
+}
+</style>
 
-
-**djjazzyjew/djjazzyjew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|||
+|-|-|
+|![headshot](/assets/headshot_stache_small.jpg) | 🔭 &nbsp; I’m currently working as a **Staff Solutions Engineer** at **[Nylas](http://nylas.com)**<!--<br/> 🌱 &nbsp; I’m currently learning ...<br/>👯 &nbsp; I’m looking to collaborate on ...<br/>🤔 &nbsp; I’m looking for help with ...<br/>💬 &nbsp; Ask me about ...</br>📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/adamjbauman/)<br/>😄 &nbsp; Pronouns: (he/him/his)<br/>⚡ &nbsp; Fun fact: ...--> |
 
 # Intro
 Hello and welcome to my user manual!  This is my attempt at documenting how I view the best way to work with me.  I want to stress the fact that this is *my* view and a believer in the concept of [Sonder](https://www.dictionaryofobscuresorrows.com/post/23536922667/sonder) so I do not view it as THE view of the best way to work with me.  It is a living document and I encourage you to comment and let me know if something is inaccurate or needs further clarification.  You can view my Strengths Finder insights [here](./docs/strengths-finder-signature-theme-report.pdf).

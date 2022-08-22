@@ -121,6 +121,7 @@ I find myself searching for a word when speaking and just make up one that sound
 * Updates to books, strengths, goals, weirdness - 5/6/2020
 * Updates to books, weaknesses (technique request for organization), meeting rigidity during COVID, updated profile image to pro headshot - 12/16/2020
 * Updates based on feedback I’ve received - 3/2/2021
+* Migrated from GDoc to markdown - 8/22/22
 
 # Footnotes
 <sup>1</sup> I’ve recently been introduced to Notion and am trying it out to see if I should transfer my notes.

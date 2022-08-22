@@ -1,9 +1,3 @@
-<style>
-th {
-   border: none!important;
-}
-</style>
-
 |||
 |-|-|
 |![headshot](/assets/headshot_stache_small.jpg) | 🔭 &nbsp; I’m currently working as a **Staff Solutions Engineer** at **[Nylas](http://nylas.com)**<!--<br/> 🌱 &nbsp; I’m currently learning ...<br/>👯 &nbsp; I’m looking to collaborate on ...<br/>🤔 &nbsp; I’m looking for help with ...<br/>💬 &nbsp; Ask me about ...</br>📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/adamjbauman/)<br/>😄 &nbsp; Pronouns: (he/him/his)<br/>⚡ &nbsp; Fun fact: ...--> |

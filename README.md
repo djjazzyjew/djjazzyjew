@@ -1,6 +1,6 @@
 |||
 |-|-|
-|![headshot](/assets/headshot_stache_small.jpg) | 🔭 &nbsp; I’m currently working as a **Staff Solutions Engineer** at **[Nylas](http://nylas.com)**<!--<br/> 🌱 &nbsp; I’m currently learning ...<br/>👯 &nbsp; I’m looking to collaborate on ...<br/>🤔 &nbsp; I’m looking for help with ...<br/>💬 &nbsp; Ask me about ...</br>📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/adamjbauman/)<br/>😄 &nbsp; Pronouns: (he/him/his)<br/>⚡ &nbsp; Fun fact: ...--> |
+|![headshot](/assets/headshot_stache_small.jpg) | 🔭 &nbsp; I’m currently working as a **Senior Solutions Engineer** at **[Kong](https://konghq.com/)**<!--<br/> 🌱 &nbsp; I’m currently learning ...<br/>👯 &nbsp; I’m looking to collaborate on ...<br/>🤔 &nbsp; I’m looking for help with ...<br/>💬 &nbsp; Ask me about ...</br>📫 &nbsp; How to reach me: [LinkedIn](https://www.linkedin.com/in/adamjbauman/)<br/>😄 &nbsp; Pronouns: (he/him/his)<br/>⚡ &nbsp; Fun fact: ...--> |
 
 # Intro
 Hello and welcome to my user manual!  This is my attempt at documenting how I view the best way to work with me.  I want to stress the fact that this is *my* view and a believer in the concept of [Sonder](https://www.dictionaryofobscuresorrows.com/post/23536922667/sonder) so I do not view it as THE view of the best way to work with me.  It is a living document and I encourage you to comment and let me know if something is inaccurate or needs further clarification.  You can view my Strengths Finder insights [here](./docs/strengths-finder-signature-theme-report.pdf).
@@ -122,6 +122,7 @@ I find myself searching for a word when speaking and just make up one that sound
 * Updates to books, weaknesses (technique request for organization), meeting rigidity during COVID, updated profile image to pro headshot - 12/16/2020
 * Updates based on feedback I’ve received - 3/2/2021
 * Migrated from GDoc to markdown - 8/22/22
+* Updated work info - 10/25/22
 
 # Footnotes
 <sup>1</sup> I’ve recently been introduced to Notion and am trying it out to see if I should transfer my notes.
